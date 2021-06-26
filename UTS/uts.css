@@ -1,0 +1,39 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, arial;
+    font-size: 15px;
+    color: white;
+    background-image: url("istockphoto-1138395421-612x612.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    text-align:center;
+}
+.p1 {
+    text-align: left;
+    margin-top: 20px;
+    font-size: 10px;
+    color: rgba(6, 238, 238, 0.705);
+}
+.p2{
+    margin-top: 15%;
+}
+
+.judul{
+    color: rgb(5, 238, 255);
+    font-weight: bold;
+}
+.hasilakhir{
+    color: rgb(6, 238, 238);
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+input[type=text]{
+    color:rgb(165, 194, 0);
+    background-color: black;
+    font-weight: bold;
+}
+input[type = submit]{
+    background-color: rgba(0, 2, 2, 0.726);
+    color: rgb(0, 255, 255);
+    font-size: 15px;
+}
